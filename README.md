@@ -1,0 +1,1 @@
+# natural-disaster-predictor-and-managemant
